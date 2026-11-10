@@ -1,0 +1,11 @@
+{
+  "Group": "jaredscarito",
+  "Name": "HyFactions",
+  "Version": "1.3.7",
+  "Description": "HyFactions adds power, claims, relations, a world map, and a faction bank.",
+  "IncludesAssetPack": true,
+  "Authors": [
+    { "Name": "Axeex" }
+  ],
+  "Main": "com.jaredscarito.factions.FactionsPlugin"
+}
